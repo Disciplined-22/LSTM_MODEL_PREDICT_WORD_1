@@ -14,7 +14,7 @@ In this section, a sequential model is constructed using the Keras library to fa
 
 Note: The architecture can be customized and fine-tuned for optimal performance. In this particular scenario, a unidirectional LSTM has been chosen for its effectiveness in capturing sequential dependencies. Depending on the nature of the data and specific requirements, the use of Bidirectional LSTMs or adjustments to the number of units may further enhance the model's capabilities.
 
-![Screenshot (1917)](https://github.com/Disciplined-22/LSTM_MODEL_PREDICT_WORD_1/assets/129745308/4e619b2c-416e-4ee0-8272-984e3dd7770d)
+![Screenshot (1917)](https://github.com/Disciplined-22/LSTM_MODEL_PREDICT_WORD_1/assets/129745308/fe133383-8960-4c36-b0fe-e75eb2f08f37)
 
 
 ### 4. Text Generation
