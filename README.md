@@ -1,4 +1,4 @@
-# Project Title: Text Generation using LSTM
+# Text Generation using LSTM
 ## Overview
 This project focuses on leveraging Long Short-Term Memory (LSTM) networks to generate coherent and contextually relevant text. The model is trained on a dataset containing the writings of Jim Rohn. The project is divided into several sections: data preprocessing, model development, and text generation.
 
